@@ -18,5 +18,5 @@
 ### :man_technologist: About me :
 
 - 🌱 I’m currently learning coding at Wolfsburg 42
-- 🔭 I'm solving challenges on  <a href="https://platform.entwicklerheld.de/publicprofile/1552f1b68a61424035404c162e0699dd"> EntwicklerHeld <\a>
+- 🔭 I'm solving challenges on  <a href="https://platform.entwicklerheld.de/publicprofile/1552f1b68a61424035404c162e0699dd"> EntwicklerHeld </a>
 - :zap: In my free time i play and stream raiding in Everquest
